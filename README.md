@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on nimble dashboard
+<!-- - 🌱 I’m currently learning  -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: lekepeterabiodun@gmail.com
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ... -->
 
 <!--
 **lekeabiodun/lekeabiodun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
