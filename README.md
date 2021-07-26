@@ -1,10 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on nimble dashboard
-<!-- - 🌱 I’m currently learning  -->
+- 🌱 I’m currently diving deep into the world of JavaScript and TypeScript 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: lekepeterabiodun@gmail.com
+- 📫 [How to reach me:](mailto:lekepeterabiodun@gmail.com)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
