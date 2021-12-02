@@ -1,4 +1,6 @@
-# Leke Peter Abiodun 
+# Leke Peter Abiodun
+
+Full-stack Web Developer
 
 lekepeterabiodun@gmail.com
 
@@ -8,9 +10,11 @@ Nigeria.
 
 ## Summary
 
-I'm a dedicated, passionate and performance-driven Full-Stack Developer with 4+
-years of experience in participating in all phases of product design and
-development, creating solutions that drive business growth.
+I'm a dedicated and passionate Full-stack Web Developer with 3+ years of
+experience in web application development in both frontend and backend
+development, using PHP/Laravel/Livewire, WordPress, JavaScript/AlpineJS,
+Bootstrap/TailwindCSS. I’m willing and currently learning to master VueJS for
+single-page applications (SPA) and hybrid mobile apps.
 
 ## Work Experience
 
@@ -22,33 +26,19 @@ _Nigeria - Jun 2015 – Dec 2015_
 ● Developed a WordPress-based eCommerce store.
 ● Developed a WordPress-based blog site.
 ```
-**Freelance Content Creator/WordPress Developer at WebSolutionsDublin.**
+**Freelance WordPress Developer at WebSolutionsDublin.**
 
 _Ireland - Feb 2017 – Oct 2018_
 
 ```
-● Created multiple videos for social media marketing and promotions.
 ● Design and development of multiple business websites.
 ● Design and development of landing pages for WebSolutionsDublin and
 clients.
 ● Developedawebscrapertoautomatemostpartofthedatacollectionin
 the company CRM.
-● Created promotional video for the initial coin offering of the first ever
-crypto-currency backed with precious metal.
+● Created a few videos for marketing and promotions.
 ```
 
-**Content Creator at OPAMEDIA HOUSE.**
-
-_Nigeria - Feb 2017 –_
-
-```
-● Created multiple videos for marketing and promotions.
-● Worked with the organizer of Ijesha grand carnival/marathon to create
-campaign strategy and campaign content.
-● Createdsocialmediapromotionvideoformultiplecelebrityartists“livein
-concert” whichinclude Zlatan, Davolee,MrReal,Barry Jhay,AyanfeViral,
-Terry Apala etc.
-```
 **Full-stack Developer at AppTech Solutions.**
 
 _Nigeria -Oct 2018 – September 2021_
@@ -69,20 +59,31 @@ India -March 2020 – Feb 2021
 ● Integratedthe Chat-botbackendwithWhatsAppchatAPIwithWhatsApp
 account.
 ```
-
 ## Education
 
+● **Bachelor of Science in Computer Science**
+_Adekunle Ajasin University of Akungba: 2012_
 ```
-● Bachelor of Science in Computer Science
-Adekunle Ajasin University of Akungba: 2012 -
-o Relevant Coursework: OperatingSystems, Architecture, Linux/Unix
-Programming,UsabilityinWebsiteandSoftwareDesign.C,C++,C#,
-JavaFORTRAN,PythonProgramming,RelationalDatabaseDesign&
-SQL, Compiler construction.
+- Relevant Coursework: OperatingSystems, Architecture, Linux/Unix
+- Programming,UsabilityinWebsiteandSoftwareDesign.C,C++,C#,
+- JavaFORTRAN,PythonProgramming,RelationalDatabaseDesign&
+- SQL, Compiler construction.
 ```
+
+● **Professional Certification in Project Management**
+_Obafemi Awolowo University: 2017 - 2018._
+
+## My tools
+
 ```
-● Professional Certification in Project Management
-Obafemi Awolowo University: 2017 - 2018.
+● Editors: Sublime, VScode.
+● Frameworks: Bootstrap, TailwindCSS, WordPress, Laravel, VueJS.
+● Libraries: JQuery, Alpine, Laravel-Livewire.
+● Languages: JavaScript, PHP, Python, MQL5.
+● Database: MySQL.
+● Version Control System: GIT.
+● Project Management: Trello, Github.
+● Testing Frameworks: PESTPHP, Cypress.
 ```
 ## Personal skills
 
@@ -94,3 +95,4 @@ Obafemi Awolowo University: 2017 - 2018.
 ● Conduct effective meetings using SCRUM.
 ● Google-Fu (I can search my way out of most technical problems).
 ```
+
