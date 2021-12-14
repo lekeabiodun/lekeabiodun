@@ -1,8 +1,10 @@
-# Leke Peter Abiodun
+# Olorunleke Peter Abiodun
 
-Full-stack Web Developer
+Full-stack Developer
 
 lekepeterabiodun@gmail.com
+
+https://lekeabiodun.com
 
 +234 706 2427 397
 
@@ -10,11 +12,7 @@ Nigeria.
 
 ## Summary
 
-I'm a dedicated and passionate Full-stack Web Developer with 3+ years of
-experience in web application development in both frontend and backend
-development, using PHP/Laravel/Livewire, WordPress, JavaScript/AlpineJS,
-Bootstrap/TailwindCSS. I’m willing and currently learning to master VueJS for
-single-page applications (SPA) and hybrid mobile apps.
+I love writing codes that solve unique problems and create solutions that drive business growth, I'm a performance-driven and motivated Full-Stack Developer. I have experience working with large-scale systems, and have built highly responsive websites and web applications. I have 5+ years of practical knowledge in PHP/Laravel/Livewire, WordPress, JavaScript/AlpineJS, Bootstrap/TailwindCSS. I’m currently learning VueJS for single-page applications (SPA) and hybrid mobile apps.
 
 ## Work Experience
 
@@ -32,11 +30,11 @@ _Ireland - Feb 2017 – Oct 2018_
 
 ```
 ● Design and development of multiple business websites.
-● Design and development of landing pages for WebSolutionsDublin and
-clients.
-● Developedawebscrapertoautomatemostpartofthedatacollectionin
-the company CRM.
+● Design and development of landing pages for WebSolutionsDublin and clients.
+● Developed a web scraper to automate most part of the data collection in the company CRM.
 ● Created a few videos for marketing and promotions.
+
+
 ```
 
 **Full-stack Developer at AppTech Solutions.**
@@ -49,6 +47,7 @@ management system using PHP/Laravel.
 ● Developed a recruitment exercise job portal.
 ● Developed Human Resource Management System.
 ● Created multiple website templates.
+
 ```
 **Freelance PHP/Laravel Developer at GetServ.**
 
@@ -56,23 +55,34 @@ management system using PHP/Laravel.
 India -March 2020 – Feb 2021
 ● Developed customer service chatbot using Laravel.
 ● Developed an interface to connect with WhatsApp chat API.
-● Integratedthe Chat-botbackendwithWhatsAppchatAPIwithWhatsApp
-account.
+● Integrated the Chat-bot backend with WhatsApp chat API with WhatsApp account.
 ```
 ## Education
 
 ● **Bachelor of Science in Computer Science**
 _Adekunle Ajasin University of Akungba: 2012_
 ```
-- Relevant Coursework: OperatingSystems, Architecture, Linux/Unix
-- Programming,UsabilityinWebsiteandSoftwareDesign.C,C++,C#,
-- JavaFORTRAN,PythonProgramming,RelationalDatabaseDesign&
-- SQL, Compiler construction.
+- Relevant Coursework: 
+  OperatingSystems, Architecture, Linux/Unix Programming, 
+  Usability in Website and Software Design. C,C++,C#, 
+  Java FORTRAN, Python Programming,Relational 
+  Database Design & SQL, Compiler construction.
 ```
 
 ● **Professional Certification in Project Management**
 _Obafemi Awolowo University: 2017 - 2018._
+```
 
+
+
+
+
+
+
+
+
+
+```
 ## My tools
 
 ```
@@ -85,6 +95,7 @@ _Obafemi Awolowo University: 2017 - 2018._
 ● Project Management: Trello, Github.
 ● Testing Frameworks: PESTPHP, Cypress.
 ```
+
 ## Personal skills
 
 ```
