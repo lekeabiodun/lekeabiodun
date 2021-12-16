@@ -1,4 +1,4 @@
-# Olorunleke Peter Abiodun
+# Leke Abiodun
 
 Full-stack Developer
 
@@ -12,7 +12,7 @@ Nigeria.
 
 ## Summary
 
-I love writing codes that solve unique problems and create solutions that drive business growth, I'm a performance-driven and motivated Full-Stack Developer. I have experience working with large-scale systems, and have built highly responsive websites and web applications. I have 5+ years of practical knowledge in PHP/Laravel/Livewire, WordPress, JavaScript/AlpineJS, Bootstrap/TailwindCSS. I’m currently learning VueJS for single-page applications (SPA) and hybrid mobile apps.
+I love writing codes that solve unique problems and create solutions that drive business growth, I'm a performance-driven and motivated Full-Stack Developer. I have experience working with large-scale systems, and have built highly responsive websites and web applications. I have 4+ years of practical knowledge in PHP/Laravel/Livewire, WordPress, JavaScript/AlpineJS, Bootstrap/TailwindCSS. I’m currently learning VueJS for single-page applications (SPA) and hybrid mobile apps.
 
 ## Work Experience
 
@@ -42,15 +42,13 @@ _Ireland - Feb 2017 – Oct 2018_
 _Nigeria -Oct 2018 – September 2021_
 
 ```
-● Developed several modules for the in-house design of a school
-management system using PHP/Laravel.
+● Developed several modules for the in-house design of a school management system using PHP/Laravel.
 ● Developed a recruitment exercise job portal.
 ● Developed Human Resource Management System.
 ● Created multiple website templates.
 
 ```
 **Freelance PHP/Laravel Developer at GetServ.**
-
 ```
 India -March 2020 – Feb 2021
 ● Developed customer service chatbot using Laravel.
@@ -71,20 +69,23 @@ _Adekunle Ajasin University of Akungba: 2012_
 
 ● **Professional Certification in Project Management**
 _Obafemi Awolowo University: 2017 - 2018._
-```
-
-
-
-
-
-
-
-
-
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
 ## My tools
-
 ```
 ● Editors: Sublime, VScode.
 ● Frameworks: Bootstrap, TailwindCSS, WordPress, Laravel, VueJS.
@@ -97,7 +98,6 @@ _Obafemi Awolowo University: 2017 - 2018._
 ```
 
 ## Personal skills
-
 ```
 ● Good human skills, teamwork.
 ● Fast learning, self-motivated.
